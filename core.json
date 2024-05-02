@@ -1,0 +1,29 @@
+{
+  "serverName": "IndexBrawlCore",
+  "serverIP": "192.168.1.100",
+  "maxPlayers": 1000,
+  "gameModes": [
+    {
+      "name": "Gem Grab",
+      "description": "Collect gems and hold them to win"
+    },
+    {
+      "name": "Showdown",
+      "description": "Battle solo or duo and be the last one standing"
+    },
+    {
+      "name": "Brawl Ball",
+      "description": "Score goals with your team to win"
+    }
+  ],
+  "events": [
+    {
+      "name": "Boss Fight",
+      "description": "Team up to defeat the boss robot"
+    },
+    {
+      "name": "Big Game",
+      "description": "Survive the Big Brawler and win rewards"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "shopName": "IndexBrawl Shop",
+  "items": [
+    {
+      "name": "Power Points",
+      "price": 100,
+      "description": "Upgrade your brawler's power"
+    },
+    {
+      "name": "Coins",
+      "price": 50,
+      "description": "Currency for buying in-game items"
+    },
+    {
+      "name": "Tickets",
+      "price": 200,
+      "description": "Use them to play special events"
+    }
+  ]
+}
